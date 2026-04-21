@@ -34,7 +34,7 @@ The dataset contains employee information such as age, department, job role, edu
 * Education Field Attrition Chart
 
 ## 🖼️ Dashboard Screenshots
-![HR Dashboard]("C:\Users\ashik\OneDrive\Pictures\Screenshots\HR_DASHBOARD.png")
+![HR Dashboard](screenshots/HR_DASHBOARD.png)
 
 ## 🔍 Key Findings
 
