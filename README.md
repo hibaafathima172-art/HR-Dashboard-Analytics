@@ -52,4 +52,4 @@ The dashboard provides insights into employee attrition patterns and supports wo
 
 ## Author
 
-Your Name
+Hiba Fathima Y
