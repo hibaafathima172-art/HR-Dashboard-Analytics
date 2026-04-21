@@ -34,24 +34,7 @@ The dataset contains employee information such as age, department, job role, edu
 * Education Field Attrition Chart
 
 ## 🖼️ Dashboard Screenshots
-
-### Overall Dashboard
-
-![HR Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Department-wise Attrition
-
-![Department Attrition](screenshots/department_attrition.png)
-
-### Age Group Distribution
-
-![Age Group Distribution](screenshots/age_group_distribution.png)
-
-### Job Satisfaction by Role
-
-![Job Satisfaction](screenshots/job_satisfaction.png)
-
-> Note: Place your dashboard images inside a folder named **screenshots** in your repository and update the file names if needed.
+"C:\Users\ashik\OneDrive\Pictures\Screenshots\HR DASHBOARD.png"
 
 ## 🔍 Key Findings
 
